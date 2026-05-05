@@ -56,7 +56,7 @@
 Name      : Kamara Edison
 Role      : Full Stack Web Developer
 Base      : Kampala, Uganda 🇺🇬
-Experience: 3–5 years of hands-on, real-world development
+Experience: 4+ years of hands-on, real-world development
 Focus     : Practical, maintainable systems that make a genuine
             difference in how organisations operate daily.
 ```
@@ -67,6 +67,151 @@ inventory tool**, or a custom business portal, I ship clean, reliable software t
 want to use.
 
 > *"I don't just write code — I engineer solutions with a clear purpose."*
+
+---
+
+<!-- ── FEATURED PROJECTS ───────────────────────────────────── -->
+## 🚀 Featured Projects
+
+> Click any project card to explore the full repository — source code, setup guide, and screenshots included.
+
+---
+
+### 🏫 Education Systems
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 School Management Platform</h3>
+      <div align="center">
+        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </div>
+      <p align="center">
+        CBC-aligned school management system covering grading, attendance,
+        fee tracking and role-based portals for Admins, Teachers and Students.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📖 Library Management System</h3>
+      <div align="center">
+        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </div>
+      <p align="center">
+        Book cataloguing, borrowing/return tracking and fine management
+        with Admin, Librarian and Student access levels.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏥 Healthcare Systems
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💊 Hospital Inventory System</h3>
+      <div align="center">
+        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </div>
+      <p align="center">
+        End-to-end hospital stock and drug inventory management with
+        real-time reporting, low-stock alerts and audit trails.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <!-- ADD A SECOND HEALTHCARE PROJECT HERE IF YOU HAVE ONE -->
+      <!-- Otherwise remove this <td> block entirely            -->
+      <h3 align="center">🏨 [Your Healthcare Project]</h3>
+      <div align="center">
+        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </div>
+      <p align="center">
+        Replace this block with your second healthcare project description.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏢 Business & Inventory Systems
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 Inventory & Stock Control System</h3>
+      <div align="center">
+        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </div>
+      <p align="center">
+        Full-stack stock management with purchase orders, sales tracking,
+        supplier management and real-time dashboard reporting.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧾 Business ERP / Invoicing Portal</h3>
+      <div align="center">
+        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </div>
+      <p align="center">
+        Custom ERP dashboard with invoicing, client management,
+        expense tracking and role-based access control.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ── VIEW ALL PROJECTS CTA ───────────────────────────────── -->
+<div align="center">
+  <a href="https://github.com/edisonkamara?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/🗂️%20View%20All%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+  </a>
+</div>
 
 ---
 
@@ -120,11 +265,8 @@ want to use.
 <!-- ── GITHUB STATS ─────────────────────────────────────────── -->
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
 
-<!-- Uses github-profile-summary-cards — more reliable -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edisonkamara&theme=github_dark"
     width="100%" alt="Edison's GitHub Stats"/>
 
@@ -136,12 +278,10 @@ want to use.
 
   <br/><br/>
 
-  <!-- Streak stats — demolab is generally stable -->
   <img src="https://streak-stats.demolab.com?user=edisonkamara&theme=github-dark-blue&ring=e44c30&fire=e44c30&currStreakLabel=e44c30&border=30363d"
     alt="GitHub Streak"/>
 
 </div>
-
 
 ---
 
