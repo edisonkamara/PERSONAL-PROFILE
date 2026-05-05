@@ -113,21 +113,27 @@ want to use.
 <!-- ── GITHUB STATS ─────────────────────────────────────────── -->
 ## 📊 GitHub Stats
 
+
+
 <div align="center">
 
-  <!-- General stats card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=edisonkamara&show_icons=true&theme=github_dark&title_color=e44c30&icon_color=e44c30&border_color=30363d&hide_border=false&count_private=true"
-    alt="Edison's GitHub Stats"
-    height="165"
-  />
+<!-- Uses github-profile-summary-cards — more reliable -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edisonkamara&theme=github_dark"
+    width="100%" alt="Edison's GitHub Stats"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edisonkamara&theme=github_dark"
+    height="160" alt="Repos per Language"/>
   &nbsp;
-  <!-- Top languages card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonkamara&layout=compact&theme=github_dark&title_color=e44c30&border_color=30363d&hide_border=false&langs_count=6"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edisonkamara&theme=github_dark"
+    height="160" alt="Most Used Language"/>
+
+  <br/><br/>
+
+  <!-- Streak stats — demolab is generally stable -->
+  <img src="https://streak-stats.demolab.com?user=edisonkamara&theme=github-dark-blue&ring=e44c30&fire=e44c30&currStreakLabel=e44c30&border=30363d"
+    alt="GitHub Streak"/>
+
+</div>
 
   <br/><br/>
 
