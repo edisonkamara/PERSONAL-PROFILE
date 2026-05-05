@@ -84,7 +84,7 @@ want to use.
     <td width="50%">
       <h3 align="center">📚 School Management Platform</h3>
       <div align="center">
-        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+        <a href="https://github.com/edisonkamara/UCBSMS" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </div>
@@ -101,7 +101,7 @@ want to use.
     <td width="50%">
       <h3 align="center">📖 Library Management System</h3>
       <div align="center">
-        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+        <a href="https://github.com/edisonkamara/libraryMS" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </div>
@@ -168,7 +168,7 @@ want to use.
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📦 Inventory & Stock Control System</h3>
+      <h3 align="center">📦 Salon management System</h3>
       <div align="center">
         <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
