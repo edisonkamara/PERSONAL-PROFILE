@@ -183,39 +183,7 @@
 
 ---
 
-<!-- ── TECH STACK ──────────────────────────────────────────── -->
-## 🛠️ Tech Stack & Tools
 
-<!-- Back-end -->
-### ⚙️ Back-End
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-<!-- Front-end -->
-### 🎨 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-<!-- Other / Additional Languages -->
-### 🧩 Additional Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-<!-- Dev Tools -->
-### 🔧 Dev Tools & Workflow
-![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 <!-- ── WHAT I BUILD ─────────────────────────────────────────── -->
 ## 🏛️ What I Build
@@ -230,26 +198,6 @@
 
 ---
 
-<!-- ── GITHUB STATS ─────────────────────────────────────────── -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edisonkamara&theme=github_dark"
-    width="100%" alt="Edison's GitHub Stats"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edisonkamara&theme=github_dark"
-    height="160" alt="Repos per Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edisonkamara&theme=github_dark"
-    height="160" alt="Most Used Language"/>
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=edisonkamara&theme=github-dark-blue&ring=e44c30&fire=e44c30&currStreakLabel=e44c30&border=30363d"
-    alt="GitHub Streak"/>
-
-</div>
 
 ---
 
