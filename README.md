@@ -99,37 +99,7 @@
   </tr>
 </table>
 
----
 
-### 🏥 Healthcare Systems
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💊 Drug Expiry Alert system</h3>
-      <div align="center">
-        <a href="https://github.com/edisonkamara/DRUG-EXPIRY-ALERT-SYSTEM
-" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </div>
-      <p align="center">
-        End-to-end hospital stock and drug inventory management with
-        real-time reporting, low-stock alerts and audit trails.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-     
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🏢 Business & Inventory Systems
 
@@ -152,16 +122,17 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🧾 Business ERP / Invoicing Portal</h3>
+     <td width="50%">
+      <h3 align="center">💊 Drug Expiry Alert system</h3>
       <div align="center">
-        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+        <a href="https://github.com/edisonkamara/DRUG-EXPIRY-ALERT-SYSTEM
+" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </div>
       <p align="center">
-        Custom ERP dashboard with invoicing, client management,
-        expense tracking and role-based access control.
+        End-to-end hospital stock and drug inventory management with
+        real-time reporting, low-stock alerts and audit trails.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
