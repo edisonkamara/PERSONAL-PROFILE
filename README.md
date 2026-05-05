@@ -88,6 +88,13 @@ want to use.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+<!-- Other / Additional Languages -->
+### 🧩 Additional Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 <!-- Dev Tools -->
 ### 🔧 Dev Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
@@ -135,15 +142,6 @@ want to use.
 
 </div>
 
-  <br/><br/>
-
-  <!-- Streak stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=edisonkamara&theme=github-dark-blue&ring=e44c30&fire=e44c30&currStreakLabel=e44c30&border=30363d"
-    alt="GitHub Streak"
-  />
-
-</div>
 
 ---
 
