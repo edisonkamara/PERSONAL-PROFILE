@@ -49,26 +49,7 @@
 
 ---
 
-<!-- ── ABOUT ME ─────────────────────────────────────────────── -->
-## 👨‍💻 About Me
 
-```text
-Name      : Kamara Edison
-Role      : Full Stack Web Developer
-Base      : Kampala, Uganda 🇺🇬
-Experience: 4+ years of hands-on, real-world development
-Focus     : Practical, maintainable systems that make a genuine
-            difference in how organisations operate daily.
-```
-
-I design, build and deploy end-to-end web systems for businesses and institutions across Uganda.
-Whether it is a **school management platform** aligned to Uganda's NCDC CBC curriculum, a **hospital
-inventory tool**, or a custom business portal, I ship clean, reliable software that teams actually
-want to use.
-
-> *"I don't just write code — I engineer solutions with a clear purpose."*
-
----
 
 <!-- ── FEATURED PROJECTS ───────────────────────────────────── -->
 ## 🚀 Featured Projects
