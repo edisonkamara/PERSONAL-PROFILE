@@ -142,11 +142,7 @@ want to use.
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
-     
-      
     
-    </td>
   </tr>
 </table>
 
