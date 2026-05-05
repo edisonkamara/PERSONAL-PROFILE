@@ -82,9 +82,9 @@ want to use.
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📚 School Management Platform</h3>
+      <h3 align="center">📚 Competency based students management system</h3>
       <div align="center">
-        <a href="https://github.com/edisonkamara/UCBSMS" target="_blank">
+        <a href="https://github.com/edisonkamara/COMPETENCY-BASED-SMS" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </div>
@@ -101,7 +101,7 @@ want to use.
     <td width="50%">
       <h3 align="center">📖 Library Management System</h3>
       <div align="center">
-        <a href="https://github.com/edisonkamara/libraryMS" target="_blank">
+        <a href="https://github.com/edisonkamara/LIBRARY-MS" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </div>
@@ -125,9 +125,10 @@ want to use.
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💊 Hospital Inventory System</h3>
+      <h3 align="center">💊 Drug Expiry Alert system</h3>
       <div align="center">
-        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
+        <a href="https://github.com/edisonkamara/DRUG-EXPIRY-ALERT-SYSTEM
+" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </div>
@@ -142,17 +143,8 @@ want to use.
       </p>
     </td>
     <td width="50%">
-      <!-- ADD A SECOND HEALTHCARE PROJECT HERE IF YOU HAVE ONE -->
-      <!-- Otherwise remove this <td> block entirely            -->
-      <h3 align="center">🏨 [Your Healthcare Project]</h3>
-      <div align="center">
-        <a href="https://github.com/edisonkamara/REPLACE-WITH-YOUR-REPO-NAME" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repository-e44c30?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </div>
-      <p align="center">
-        Replace this block with your second healthcare project description.
-      </p>
+     
+      
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
